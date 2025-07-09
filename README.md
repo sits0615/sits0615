@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dahn Tran
+# 👋 Hi, I'm Universe Diamond
 
 I'm a full-stack developer with 8+ years of experience specializing in web applications, AI integration, and video streaming. I’ve built enterprise tools like an Excel-to-web conversion using Vue.js and SharePoint, where I re-engineered complex formulas into a modular, data-driven web interface. In another project, I developed a real-time video streaming system using WebRTC and FFmpeg, optimizing for low-latency performance across unstable networks. I enjoy solving technical challenges with clean architecture and always aim to deliver scalable, user-friendly solutions.
 
@@ -18,7 +18,7 @@ I'm a full-stack developer with 8+ years of experience specializing in web appli
 - SharePoint (REST API Integration)
 - Firebase, Supabase
 
-**AI & ML**
+**AI**
 - OpenAI API (ChatGPT, Whisper, DALL·E)
 - LangChain, Hugging Face
 - Custom AI chatbots and assistants
@@ -59,9 +59,7 @@ I'm a full-stack developer with 8+ years of experience specializing in web appli
 ## 📫 Let's Connect
 
 - Portfolio: *(Coming Soon)*
-- Upwork: [upwork.com/freelancers/~yourID](https://www.upwork.com/)
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/)
-- Email: your.email@example.com
+- Email: devstar0428@gmail.com
 
 ---
 
