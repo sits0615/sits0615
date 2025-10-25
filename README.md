@@ -1,6 +1,6 @@
 <!-- Elegant Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=5EB4FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+SITS;Python+Backend+Engineer+%7C+AWS+Cloud+Developer;Full-Stack+Web+%26+Mobile App Builder;Scalable+%26+AI-Powered+Solutions+Architect">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=5EB4FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+SITS;Python+Backend+Engineer+%7C+AWS+Cloud+Developer;Full+Stack+Web+%26+Mobile+App+Builder;Scalable+%26+AI-Powered+Solutions+Architect">
 </p>
 
 <!-- Subtitle -->
